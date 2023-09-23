@@ -1,26 +1,26 @@
 # kaggle-learn
 
-### Intro to Programming:
+**Intro to Programming:**
 
-### Python:
+**Python:**
 
-### Pandas:
+**Pandas:**
 
-### Data Cleaning:
+**Data Cleaning:**
 
-### Data Visualization: 
+**Data Visualization:**
 
-### Intro to Machine Learning:
+**Intro to Machine Learning:**
 
-### Feature Engineering:
+**Feature Engineering:**
 
-### Intermediate Machine Learning
+**Intermediate Machine Learning:**
 
-### Time Series
+**Time Series:**
 
-### Intro to Deep Learning
+**Intro to Deep Learning:**
 
-### Extras:
+**Extras:**
 
 * Computer Vision
 * Geospatial Analysis
